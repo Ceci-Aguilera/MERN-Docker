@@ -9,6 +9,8 @@
 # Testing
 /server/coverage
 
+/server/.env
+
 ## Client
 
 # dependencies
@@ -19,6 +21,7 @@
 
 # production
 /client/build
+
 
 # misc
 .DS_Store

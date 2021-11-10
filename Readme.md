@@ -32,9 +32,9 @@ There are 3 images on use for development: the MongoDB image, the Node+Express I
 
 ###  Structure and Folders
 
-- The __server__ folder contains the __Node.js and Express.js__ Dockerfile.
+- The __server__ folder contains the __Node.js and Express.js__ server and the Dockerfile for development.
 
-- The __client__ folder contains the __React__ Dockerfile.
+- The __client__ folder contains the __React__ application and the Dockerfile for development.
 
   
 
@@ -64,4 +64,4 @@ The backend server should be running on port __8080__ while the frontend client 
 
 ---
 
-For the production mode, both the website is on port __8080__.
+For the production mode, the website is on port __8080__.
